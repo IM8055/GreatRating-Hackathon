@@ -1,2 +1,2 @@
 # GreatRating-Hackathon
-The files associated with Great Lakes Hackathon
+This repository is for Great Lakes Hackathon challenge conducted in April 2020.
